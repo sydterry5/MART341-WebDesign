@@ -1,0 +1,6 @@
+The main difference between the world wide web and the internet is that the internet is just the network that connects all of us to the content that is on the world wide web.  The world wide web is what we see as content on the internet.
+The internet is basically a giant hub of computers that communicate with one another to create the framework for the world wide web to live in.  
+A directory is the main compilation that holds files in an organized way. 
+A Version Control System is where all changes to files are stored and documented so a person can view each change made chronologically.  It is benefitial because it allows a group of people to edit files openly so there is a strong sense of collaboration and then can later put each other's work together. 
+Screenshot
+It is really hard to choose a favorite kind of art so I have to choose a tie between illustration and cooking.  
