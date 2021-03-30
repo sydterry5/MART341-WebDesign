@@ -1,0 +1,5 @@
+1. Divs= allow developers a block-level element to group other elements together.
+   Spans= although a span exists within a div element, it identifies or groups content together that requires organization or extra styling.
+   Ids= this attribute specifies a unique id for an html element, especially when it comes to stylizing.
+2. One of the advantages to using services like youtube for hosting videos would be the efficiency of copying the embedded code and pasting into atom.  A disadvantage would be that it does not allow you to pick and choose parts of a certain video that you may want to show.  
+3. With this assignment, it was pretty straightforward. It took me longer than I would have expected to get all of the lyrics down and have them look like lyrics.  I ended up just typing them in line by line so I could have it styled the way I wanted in paragraph form.  It was a fun assignment because I love music so much. One other thing that was troublesome was getting the Media Arts logos done in multiple source video element.
