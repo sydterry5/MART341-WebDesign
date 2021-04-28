@@ -1,0 +1,3 @@
+1. I don't feel like I learned anything new about web development with this assignment.  But in terms of the class as a whole, I learned a lot and I'm really thankful for that.
+2. With the final, I learned how to add an image slideshow, more about stylizing, and how to use the table element to create my dream menu.  I also learned how to add an image as just a background for the top portion of my page.  
+3. The biggest challenge I had with this assignment was my inner perfectionist nit picking on the design aspects (i.e padding, colors, fonts, and alignment).  It was also troublesome for me to get the images I used just right in terms of resolution, size, and source.  I troubleshot these issues with a lot of googling/w3 schools/ and our course website.
